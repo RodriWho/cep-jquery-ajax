@@ -1,2 +1,2 @@
-# cep-jquery-ajax
-Projeto para Consultar CEP, utilizando Jquery e Ajax
+# Consulta CEP 
+ - Projeto para Consultar CEP, utilizando Jquery e Ajax
